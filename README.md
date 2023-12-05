@@ -44,7 +44,7 @@ Websites
 2.3 User Classes and characteristics
      In the context of a hospital appointment scheduler, we can identify several user classes with distinct characteristics. Understanding these user classes is crucial for designing a system that meets the needs of various stakeholders. Here are some potential user classes for this project:
 
-Administrator
+Admin
 Characteristics
 •	has full access to the system.
 •	responsible for system configuration and maintenance.
@@ -73,38 +73,6 @@ Responsibilities
 •	Requests appointments.
 •	provides accurate personal and medical information.
 •	confirms or reschedules appointments.
-
-System Guests
-Characteristics
-•	Individuals visiting the hospital website without an account
-•	limited access to general information.
-Responsibilities
-•	Access general information about the hospital.
-•	Learn about available services and departments.
-
-IT Support
-Characteristics
-•	technical support personnel.
-•	has advanced knowledge of system architecture.
-Responsibilities
-•	resolves technical issues.
-•	provides assistance with system-related problems.
-
-Managers/Supervisors
-Characteristics
-•	oversee the operation of specific departments.
-•	require access to department-specific scheduling and performance metrics.
-Responsibilities
-•	Monitor and manage department schedules.
-•	Analyse performance metrics for resource optimization.
-
-External Developers (if applicable)
-Characteristics
-•	individuals responsible for system integration or customization.
-•	may not be part of the hospital staff.
-Responsibilities
-•	Develop and integrate additional features.
-•	Ensure the system aligns with hospital requirements.
 
 Understanding the characteristics and responsibilities of these user classes will aid in designing user interfaces, access controls, and functionalities tailored to the specific needs of each group. It's essential to conduct user interviews and engage stakeholders during the system design process to refine and validate these user classes and their associated characteristics.
 
